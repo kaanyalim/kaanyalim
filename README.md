@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[<img width="300" height="300" alt="Ofoo " src="https://github.com/user-attachments/assets/7c5b974f-997c-4c1e-a0d0-44fcb4c2689d" />
-](https://github.com/user-attachments/files/31199327/woman.around.mp3)
+[<img width="450" height="450" alt="Ofoo " src="https://github.com/user-attachments/assets/7c5b974f-997c-4c1e-a0d0-44fcb4c2689d" />
+](https://github.com/user-attachments/files/31202320/mein.freak.mp3)
 
 <!--
 **kaanyalim/kaanyalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
