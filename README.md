@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[<img width="450" height="450" alt="Ofoo " src="https://github.com/user-attachments/assets/7c5b974f-997c-4c1e-a0d0-44fcb4c2689d" />
+[<img width="250" height="250" alt="Ofoo " src="https://github.com/user-attachments/assets/cf5f03dc-4410-4496-baba-09930de58a14" />
 ](https://github.com/user-attachments/files/31202320/mein.freak.mp3)
 
 <!--
